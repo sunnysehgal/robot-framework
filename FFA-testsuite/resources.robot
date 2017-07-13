@@ -4,7 +4,7 @@ Library  Selenium2Library
 
 
 *** Variables ***
-${SERVER}   http://hub.qa.ffa.football
+${SERVER}   http://www.google.com
 ${BROWSER}  gc
 
 
