@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation  this is a simple test for Google websites
-Library  Selenium2Library
+Library  SeleniumLibrary
 
 
 *** Variables ***
