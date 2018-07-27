@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  this is a simple test for FFA websites
+Documentation  this is a simple test for Google websites
 Resource      ~/Robots-framework
 
 
