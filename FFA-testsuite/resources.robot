@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  this is a simple test for FFA websites
+Documentation  this is a simple test for Google websites
 Library  Selenium2Library
 
 
@@ -19,4 +19,4 @@ Open Website
     Open Browser    ${SERVER}    ${BROWSER}
 
 Check Page Title
-    title should be  
+    title should be
